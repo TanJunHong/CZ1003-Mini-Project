@@ -1,0 +1,387 @@
+[
+   {
+      "Date": "01/01/2016",
+      "Name": "New Year's Day",
+      "Day": "Friday",
+      "Observance": "01/01/2016",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "08/02/2016",
+      "Name": "Chinese New Year Day 1",
+      "Day": "Monday",
+      "Observance": "08/02/2016",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "09/02/2016",
+      "Name": "Chinese New Year Day 2",
+      "Day": "Tuesday",
+      "Observance": "09/02/2016",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "25/03/2016",
+      "Name": "Good Friday",
+      "Day": "Friday",
+      "Observance": "25/03/2016",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "01/05/2016",
+      "Name": "Labour Day",
+      "Day": "Sunday",
+      "Observance": "01/05/2016",
+      "Observance Strategy": "next_monday"
+   },
+   {
+      "Date": "21/05/2016",
+      "Name": "Vesak Day",
+      "Day": "Saturday",
+      "Observance": "21/05/2016",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "06/07/2016",
+      "Name": "Hari Raya Puasa",
+      "Day": "Wednesday",
+      "Observance": "06/07/2016",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "09/08/2016",
+      "Name": "National Day",
+      "Day": "Tuesday",
+      "Observance": "09/08/2016",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "12/09/2016",
+      "Name": "Hari Raya Haji",
+      "Day": "Monday",
+      "Observance": "12/09/2016",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "29/10/2016",
+      "Name": "Deepavali",
+      "Day": "Saturday",
+      "Observance": "29/10/2016",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "25/12/2016",
+      "Name": "Christmas Day",
+      "Day": "Sunday",
+      "Observance": "26/12/2016",
+      "Observance Strategy": "next_monday"
+   },
+   {
+      "Date": "01/01/2017",
+      "Name": "New Year's Day",
+      "Day": "Sunday",
+      "Observance": "02/01/2017",
+      "Observance Strategy": "next_monday"
+   },
+   {
+      "Date": "28/01/2017",
+      "Name": "Chinese New Year Day 1",
+      "Day": "Saturday",
+      "Observance": "28/01/2017",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "29/01/2017",
+      "Name": "Chinese New Year Day 2",
+      "Day": "Sunday",
+      "Observance": "30/01/2017",
+      "Observance Strategy": "next_monday"
+   },
+   {
+      "Date": "14/04/2017",
+      "Name": "Good Friday",
+      "Day": "Friday",
+      "Observance": "14/04/2017",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "01/05/2017",
+      "Name": "Labour Day",
+      "Day": "Monday",
+      "Observance": "01/05/2017",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "10/05/2017",
+      "Name": "Vesak Day",
+      "Day": "Wednesday",
+      "Observance": "10/05/2017",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "25/06/2017",
+      "Name": "Hari Raya Puasa",
+      "Day": "Sunday",
+      "Observance": "26/06/2017",
+      "Observance Strategy": "next_monday"
+   },
+   {
+      "Date": "09/08/2017",
+      "Name": "National Day",
+      "Day": "Wednesday",
+      "Observance": "09/08/2017",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "01/09/2017",
+      "Name": "Hari Raya Haji",
+      "Day": "Friday",
+      "Observance": "01/09/2017",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "18/10/2017",
+      "Name": "Deepavali",
+      "Day": "Wednesday",
+      "Observance": "18/10/2017",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "25/12/2017",
+      "Name": "Christmas Day",
+      "Day": "Monday",
+      "Observance": "25/12/2017",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "01/01/2018",
+      "Name": "New Year's Day",
+      "Day": "Monday",
+      "Observance": "01/01/2018",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "16/02/2018",
+      "Name": "Chinese New Year Day 1",
+      "Day": "Friday",
+      "Observance": "16/02/2018",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "17/02/2018",
+      "Name": "Chinese New Year Day 2",
+      "Day": "Saturday",
+      "Observance": "17/02/2018",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "30/03/2018",
+      "Name": "Good Friday",
+      "Day": "Friday",
+      "Observance": "30/03/2018",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "01/05/2018",
+      "Name": "Labour Day",
+      "Day": "Tuesday",
+      "Observance": "01/05/2018",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "29/05/2018",
+      "Name": "Vesak Day",
+      "Day": "Tuesday",
+      "Observance": "29/05/2018",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "15/06/2018",
+      "Name": "Hari Raya Puasa",
+      "Day": "Friday",
+      "Observance": "15/06/2018",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "09/08/2018",
+      "Name": "National Day",
+      "Day": "Thursday",
+      "Observance": "09/08/2018",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "22/08/2018",
+      "Name": "Hari Raya Haji",
+      "Day": "Wednesday",
+      "Observance": "22/08/2018",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "06/11/2018",
+      "Name": "Deepavali",
+      "Day": "Tuesday",
+      "Observance": "06/11/2018",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "25/12/2018",
+      "Name": "Christmas Day",
+      "Day": "Tuesday",
+      "Observance": "25/12/2018",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "01/01/2019",
+      "Name": "New Year's Day",
+      "Day": "Monday",
+      "Observance": "01/01/2019",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "05/02/2019",
+      "Name": "Chinese New Year Day 1",
+      "Day": "Tuesday",
+      "Observance": "05/02/2019",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "06/02/2019",
+      "Name": "Chinese New Year Day 2",
+      "Day": "Wednesday",
+      "Observance": "06/02/2019",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "19/04/2019",
+      "Name": "Good Friday",
+      "Day": "Friday",
+      "Observance": "19/04/2019",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "01/05/2019",
+      "Name": "Labour Day",
+      "Day": "Wednesday",
+      "Observance": "01/05/2019",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "19/05/2019",
+      "Name": "Vesak Day",
+      "Day": "Sunday",
+      "Observance": "20/05/2019",
+      "Observance Strategy": "next_monday"
+   },
+   {
+      "Date": "05/06/2019",
+      "Name": "Hari Raya Puasa",
+      "Day": "Wednesday",
+      "Observance": "05/06/2019",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "09/08/2019",
+      "Name": "National Day",
+      "Day": "Friday",
+      "Observance": "09/08/2019",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "11/08/2019",
+      "Name": "Hari Raya Haji",
+      "Day": "Sunday",
+      "Observance": "12/08/2019",
+      "Observance Strategy": "next_monday"
+   },
+   {
+      "Date": "27/10/2019",
+      "Name": "Deepavali",
+      "Day": "Sunday",
+      "Observance": "28/10/2019",
+      "Observance Strategy": "next_monday"
+   },
+   {
+      "Date": "25/12/2019",
+      "Name": "Christmas Day",
+      "Day": "Wednesday",
+      "Observance": "25/12/2019",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "01/01/2020",
+      "Name": "New Year's Day",
+      "Day": "Wednesday",
+      "Observance": "01/01/2020",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "25/01/2020",
+      "Name": "Chinese New Year Day 1",
+      "Day": "Saturday",
+      "Observance": "25/01/2020",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "26/01/2020",
+      "Name": "Chinese New Year Day 2",
+      "Day": "Sunday",
+      "Observance": "27/01/2020",
+      "Observance Strategy": "next_monday"
+   },
+   {
+      "Date": "10/04/2020",
+      "Name": "Good Friday",
+      "Day": "Friday",
+      "Observance": "10/04/2020",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "01/05/2020",
+      "Name": "Labour Day",
+      "Day": "Friday",
+      "Observance": "01/05/2020",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "07/05/2020",
+      "Name": "Vesak Day",
+      "Day": "Thursday",
+      "Observance": "07/05/2020",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "24/05/2020",
+      "Name": "Hari Raya Puasa",
+      "Day": "Sunday",
+      "Observance": "25/05/2020",
+      "Observance Strategy": "next_monday"
+   },
+   {
+      "Date": "31/07/2020",
+      "Name": "Hari Raya Haji",
+      "Day": "Friday",
+      "Observance": "31/07/2020",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "09/08/2020",
+      "Name": "National Day",
+      "Day": "Sunday",
+      "Observance": "10/08/2020",
+      "Observance Strategy": "next_monday"
+   },
+   {
+      "Date": "14/11/2020",
+      "Name": "Deepavali",
+      "Day": "Saturday",
+      "Observance": "14/11/2020",
+      "Observance Strategy": "actual_day"
+   },
+   {
+      "Date": "25/12/2020",
+      "Name": "Christmas Day",
+      "Day": "Friday",
+      "Observance": "25/12/2020",
+      "Observance Strategy": "actual_day"
+   }
+]

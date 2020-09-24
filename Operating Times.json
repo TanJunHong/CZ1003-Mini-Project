@@ -1,0 +1,175 @@
+{
+   "Bakery Cuisine": {
+      "Address": "50 Nanyang Avenue, NS3-01-20, Singapore 639798",
+      "Weekday": "07:00-21:00",
+      "Weekend": "09:00-19:00",
+      "Public Holiday": "09:00-19:00",
+      "Waiting Time": 3
+   },
+   "Boost Juice": {
+      "Address": "50 Nanyang Avenue, NS3-01-11, Singapore 639798",
+      "Weekday": "10:00-21:00",
+      "Weekend": "10:00-18:00",
+      "Public Holiday": "Closed",
+      "Waiting Time": 5
+   },
+   "Each-A-Cup": {
+      "Address": "50 Nanyang Avenue, NS3-01-21, Singapore 639798",
+      "HP": "91829307",
+      "Weekday": "09:00-21:00",
+      "Weekend": "09:00-18:00",
+      "Public Holiday": "Closed",
+      "Waiting Time": 4.5
+   },
+   "Fun World Cafe": {
+      "Address": "50 Nanyang Avenue, NS3-01-04, Singapore 639798",
+      "Weekday": "08:00-20:00",
+      "Saturday": "09:00-15:00",
+      "Sunday": "Closed",
+      "Public Holiday": "Closed",
+      "Waiting Time": 7
+   },
+   "Grande Cibo": {
+      "Address": "50 Nanyang Avenue, NS3-01-23, Singapore 639798",
+      "Weekday": "11:00-20:00",
+      "Weekend": "11:00-20:00",
+      "Public Holiday": "Closed",
+      "Seating Capacity": "48"
+   },
+   "KFC": {
+      "Address": "76 Nanyang Drive, N2.1-01-04, Singapore 6397331",
+      "Tel": "67626124",
+      "Weekday": "07:30-22:00",
+      "Weekend": "11:00-20:00",
+      "Public Holiday": "Closed",
+      "Seating Capacity": "999 (Shared); 162(Interior)",
+      "Remarks": "Halal-Certified"
+   },
+   "Long John Silver's": {
+      "Address": "76 Nanyang Drive, N2.1-01-05, Singapore 6397331",
+      "Tel": "63140181",
+      "Weekday": "07:30-22:00",
+      "Weekend": "07:30-22:00",
+      "Public Holiday": "07:30-22:00",
+      "Waiting Time": 5
+   },
+   "McDonald's": {
+      "Address": "76 Nanyang Drive, N2.1-01-08, Singapore 6397331",
+      "Tel": "67929917",
+      "Weekday": "07:00-23:59",
+      "Weekend": "10:00-22:00",
+      "Public Holiday": "10:00-22:00",
+      "Semester Break - Weekday": "07:00-23:59",
+      "Semester Break - Weekend": "10:00-22:00",
+      "Semester Break - Public Holiday": "10:00-22:00",
+      "Seating Capacity": "999 (Shared); 162(Interior)",
+      "Remarks": "Halal-Certified"
+   },
+   "Mr Bean": {
+      "Address": "50 Nanyang Avenue, NS3-01-16, Singapore 639798",
+      "Weekday": "07:30-20:30",
+      "Saturday": "07:30-17:00",
+      "Sunday": "Closed",
+      "Public Holiday": "Closed"
+   },
+   "North Spine Food Court": {
+      "Address": "76 Nanyang Drive, N2.1-02-03/01A, Singapore 6397331",
+      "Tel": "64658588",
+      "Weekday": "07:00-21:00",
+      "Saturday": "07:00-15:00",
+      "Sunday": "Closed",
+      "Public Holiday": "Closed",
+      "Stalls": "19",
+      "Seating Capacity": "1838"
+   },
+   "Paik's Bibim": {
+      "Address": "50 Nanyang Avenue, NS3-01-15, Singapore 639798",
+      "Tel": "62620567",
+      "Weekday": "10:00-21:00",
+      "Saturday": "10:00-15:00",
+      "Sunday": "Closed",
+      "Public Holiday": "Closed",
+      "Seating Capacity": "40"
+   },
+   "Peach Garden Chinese Restaurant": {
+      "Address": "76 Nanyang Drive, N2.1-02-01B, Singapore 6397331",
+      "Tel": "62199398",
+      "Weekday": "11:00-14:30/17:00-22:00",
+      "Weekend": "11:00-14:30/17:00-22:00",
+      "Public Holiday": "11:00-14:30/17:00-22:00",
+      "Seating Capacity": "180 (including private rooms)"
+   },
+   "PEN & INC": {
+      "Address": "76 Nanyang Drive, N2.1-01-01, Singapore 6397331",
+      "Tel": "63140158",
+      "Monday": "10:00-21:00",
+      "Tuesday": "10:00-21:00",
+      "Wednesday": "10:00-21:00",
+      "Thursday": "11:00-23:59",
+      "Friday": "10:00-21:00",
+      "Saturday": "11:00-17:00",
+      "Sunday": "Closed",
+      "Public Holiday": "Closed",
+      "Seating Capacity": "144"
+   },
+   "Pizza Hut Express": {
+      "Address": "76 Nanyang Drive, N2.1-01-04, Singapore 6397331",
+      "Tel": "67626124",
+      "Weekday": "11:00-22:00",
+      "Saturday": "11:00-21:00",
+      "Sunday": "11:00-20:00",
+      "Public Holiday": "11:00-20:00",
+      "Seating Capacity": "999 (Shared); 162(Interior)",
+      "Remarks": "Halal-Certified"
+   },
+   "Starbucks Coffee": {
+      "Address": "76 Nanyang Drive, N2.1-01-06, Singapore 6397331",
+      "Tel": "69101245",
+      "Weekday": "07:00-22:00",
+      "Weekend": "07:00-17:00",
+      "Public Holiday": "Closed",
+      "Seating Capacity": "999 (Shared); 34(Interior)"
+   },
+   "Subway": {
+      "Address": "76 Nanyang Drive, N2.1-01-07, Singapore 6397331",
+      "Tel": "64625238",
+      "Weekday": "08:00-21:00",
+      "Weekend": "11:00-18:00",
+      "Public Holiday": "Closed",
+      "Seating Capacity": "999 (Shared)"
+   },
+   "The House Steam Boat Restaurant": {
+      "Address": "50 Nanyang Avenue, NS3-01-24, Singapore 639798",
+      "HP": "88213302",
+      "Weekday": "09:00-21:00",
+      "Saturday": "09:00-18:00",
+      "Sunday": "Closed",
+      "Public Holiday": "10:00-16:00",
+      "Seating Capacity": "34"
+   },
+   "The Sandwich Guys": {
+      "Address": "50 Nanyang Avenue, NS3-01-22, Singapore 639798",
+      "HP": "90991412",
+      "Weekday": "10:00-20:00",
+      "Saturday": "10:00-15:00",
+      "Sunday": "Closed",
+      "Public Holiday": "Closed"
+   },
+   "The Soup Spoon Union": {
+      "Address": "50 Nanyang Avenue, NS3-01-14, Singapore 639798",
+      "Tel": "62687566",
+      "Weekday": "11:00-21:00",
+      "Saturday": "11:00-15:00",
+      "Sunday": "Closed",
+      "Public Holiday": "Closed",
+      "Seating Capacity": "104"
+   },
+   "Umisushi": {
+      "Address": "50 Nanyang Avenue, NS3-01-19, Singapore 639798",
+      "Weekday": "09:00-21:00",
+      "Saturday": "09:00-15:00",
+      "Sunday": "Closed",
+      "Public Holiday": "Closed",
+      "Seating Capacity": "32"
+   }
+}

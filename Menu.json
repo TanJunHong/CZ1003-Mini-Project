@@ -1,0 +1,118 @@
+{
+   "Bakery Cuisine": {
+      "Menu": {
+         "Cheese Stick": "$1.60",
+         "Golden Sausage": "$1.80",
+         "BBQ Coin Chicken": "$1.80",
+         "Cheese Chicken Sausage": "$1.60",
+         "Chicken Ham & Cheese": "$1.60",
+         "Chicken Char Siew": "$1.60",
+         "Chicken Ham & Egg": "$1.80",
+         "Chicken Sausage, Chicken Floss": "$1.80",
+         "Tuna Bun": "$1.60",
+         "Cream Corn": "$1.60",
+         "Durian Bun": "$1.80",
+         "Chicken Pie": "$1.80",
+         "Curry Pie": "$1.80"
+      }
+   },
+   "Boost Juice": {
+      "Menu": {
+         "All Berry Bang": "$5.50",
+         "Mango Magic": "$5.50",
+         "Strawberry Squeeze": "$5.50",
+         "Banana Buzz": "$5.50",
+         "Soraya's Favourite": "$6.50",
+         "Superfruit Smoothie": "$6.50",
+         "Watermelon Lychee Crush": "$5.00",
+         "Berry Crush": "$5.00",
+         "Mango Tango Crush": "$5.00",
+         "Passion Mango": "$5.50",
+         "Cookies & Cream": "$5.50",
+         "King William Chocolate": "$5.50"
+      }
+   },
+   "Each-A-Cup": {
+      "Menu": {
+         "Fresh Lemon Earl Grey": "$4.50",
+         "Winter Melon Milk Tea": "$4.80",
+         "Black Tea Macchiato": "$3.70",
+         "Green Tea Macchiato": "$3.70",
+         "Ice Cream Black Tea": "$3.20",
+         "Ice Cream Fresh Milk Tea": "$6.90",
+         "Almond Coffee": "$4.80",
+         "American Milk Coffee": "$4.50",
+         "Caramel Coffee": "$4.90"
+      }
+   },
+   "Fun World Cafe": {
+      "Availability": {
+         "Set A": {
+            "Weekday": "08:00-10:00",
+            "Saturday": "09:00-10:00"
+         },
+         "Set B": {
+            "Weekday": "10:00-18:00",
+			"Saturday": "10:00-15:00"
+         },
+         "Set C": {
+            "Weekday": "18:00-20:00"
+         }
+      },
+      "Set A": {
+         "Breakfast Set 1": "$4.50",
+         "Breakfast Set 2": "$5.50",
+         "Breakfast Set 3": "$6.50"
+      },
+      "Set B": {
+         "Lunch Set 1": "$4.50",
+         "Lunch Set 2": "$5.00",
+         "Lunch Set 3": "$5.50"
+      },
+      "Set C": {
+         "Dinner Set 1": "$7.50",
+         "Dinner Set 2": "$8.50",
+         "Dinner Set 3": "$9.50"
+      }
+   },
+   "Long John Silver's": {
+      "Availability": {
+         "Set A": {
+            "Weekday": "07:30-10:00",
+            "Saturday": "07:30-10:30",
+            "Sunday": "07:30-11:00"
+         },
+         "Set B": {
+            "Weekday": "10:00-18:00",
+			"Saturday": "10:00-17:00",
+            "Sunday": "11:00-18:00"
+         },
+         "Set C": {
+            "Weekday": "18:00-22:00",
+            "Saturday": "17:00-22:00",
+            "Sunday": "18:00-22:00"
+         },
+         "Set D": {
+            "Public Holiday": "07:30-22:00"
+         }
+      },
+      "Set A": {
+         "Breakfast Set": "$4.50",
+         "Egg & Toast" : "$3.00"
+      },
+      "Set B": {
+         "Lunch Set": "$4.50",
+         "2 Piece Fish": "$5.00"
+      },
+      "Set C": {
+         "Dinner Set": "$7.50",
+         "3 Piece Chicken": "$8.00",
+         "2 Piece Fish": "$5.00"
+      },
+      "Set D": {
+         "Public Holiday Special": "$10.00",
+         "10 Piece Chicken": "$20.00",
+         "5 Piece Fish": "$8.00"
+      }
+   }
+}
